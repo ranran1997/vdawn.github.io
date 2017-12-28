@@ -1,0 +1,99 @@
+<!--pages/list/list.wxml-->
+<view class="list">
+  <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减的开发健康的减肥看到九分裤的房间的空间番窠倒臼付款单肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+   <view class="list-item">
+    <image src="http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg" class="list-img"></image>
+    <view class="list-desc">
+      <text class="title">宫廷月亮虾</text>
+      <text>电话：123456789098</text>
+      <text>地址：上海市名点fffvfvsdf的减肥咖啡看到否认改</text>
+      <text>营业时间：周一至周五晚上10点</text>
+    </view>
+    <view class="list-rating">
+      <text>100</text>
+    </view>
+  </view>
+</view>

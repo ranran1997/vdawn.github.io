@@ -1,0 +1,35 @@
+/* pages/list/list.wxss */
+.list{
+  border-top:1rpx solid #999;
+}
+.list-item{
+  display:flex;
+  flex-direction:row;
+  padding:10px;
+  border-bottom:1rpx solid #eee;
+}
+.list-img{
+  width:160rpx;
+  height:160rpx;
+  margin-right:10px;  
+}
+.list-desc{
+  display:flex;
+  flex-direction:column;
+  width:500rpx;
+}
+.list-desc text{
+  font-size:24rpx;
+  color:#999;
+}
+.list-desc .title{
+  font-size:28rpx;
+  color:#666;
+}
+.list-rating text{
+  font-size:22rpx;
+  color:#fff;
+  background-color:#ee523d;
+  padding:5rpx 10rpx;
+  border-radius:50rpx;
+}
